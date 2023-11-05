@@ -1,2 +1,0 @@
-This is a test file on my local system.
-This is a another text message to check the status.
